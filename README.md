@@ -8,6 +8,7 @@ English & Francais
     + [Goodies](#goodies)
     + [Contact](#contact)
     + [Footer](#footer)
+    
 - FanPage (expliqué en Francais)
   * [Site de fans](#site-de-fans)
     + [Présentation](#présentation)
