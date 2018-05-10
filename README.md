@@ -1,6 +1,6 @@
 English & Francais
 
-- [FanPage (explained in English).](#fanpage--explained-in-english-)
+- FanPage (explained in English)
   * [Fan site](#fan-site)
     + [Presentation](#presentation)
     + [Biography](#biography)
@@ -8,7 +8,7 @@ English & Francais
     + [Goodies](#goodies)
     + [Contact](#contact)
     + [Footer](#footer)
-- [FanPage (expliqué en Francais).](#fanpage--expliqué-en-francais-)
+- FanPage (expliqué en Francais)
   * [Site de fans](#site-de-fans)
     + [Présentation](#présentation)
     + [Biographie](#biographie)
