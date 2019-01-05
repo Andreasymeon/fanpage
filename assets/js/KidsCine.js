@@ -134,6 +134,9 @@ function removeItem(removeButton) {
 /*----------------------------------------------------*/
 
 window.onscroll = function() {scrollFunction(), hideBasket()};
+window.onload = function() {
+  document.getElementById("shopBasket").style.display = 'none';
+};
 
 function scrollFunction() {
     if (document.body.scrollTop > 3100 || document.documentElement.scrollTop > 3100) {
