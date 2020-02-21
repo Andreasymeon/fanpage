@@ -136,14 +136,17 @@ function removeItem(removeButton) {
 window.onscroll = function() {scrollFunction(), hideBasket()};
 window.onload = function() {
   document.getElementById("shopBasket").style.display = 'none';
+  document.getElementById("shopBasket").style.opacity = 0;
 };
 
 function scrollFunction() {
     if (document.body.scrollTop > 3100 || document.documentElement.scrollTop > 3100) {
         document.getElementById("shopBasket").style.display = "block";
+          document.getElementById("shopBasket").style.opacity = 1;
     } 
     else {
         document.getElementById("shopBasket").style.display = "none";
+        document.getElementById("shopBasket").style.opacity = 0;
     }
 }
 
