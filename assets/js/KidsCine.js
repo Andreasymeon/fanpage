@@ -139,7 +139,7 @@ window.onload = function() {
 };
 
 function scrollFunction() {
-    if (document.body.scrollTop > 3100 || document.documentElement.scrollTop > 3100) {
+    if (document.body.scrollTop > 3000 || document.documentElement.scrollTop > 3000) {
         document.getElementById("shopBasket").style.display = "block";
           document.getElementById("shopBasket").style.opacity = 1;
     } 
