@@ -329,6 +329,7 @@ header {
   #eShop .summary {
     position: fixed;
     top: 20%;
+    opacity:0;
     background-color: none !important;
     border: 2px solid #e1621c;
     padding: 1rem;
