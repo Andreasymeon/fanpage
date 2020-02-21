@@ -328,12 +328,12 @@ header {
     width: 30%; }
   #eShop .summary {
     position: fixed;
-    top: 25%;
+    top: 20%;
     background-color: none !important;
     border: 2px solid #e1621c;
     padding: 1rem;
-    width: 250px;
-    margin-left: 10rem;
+    width: 230px;
+    margin-left: 8rem;
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     box-sizing: border-box; }
